@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useRef } from "react";
+import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import projectCategories from "../assets/work";
 import Navbar from "../components/Navbar";
